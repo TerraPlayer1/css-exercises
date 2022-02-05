@@ -1,0 +1,19 @@
+.odd {
+  background-color: rgb(256, 20, 20, 0.4);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.odd.special {
+  font-size: 24px;
+}
+
+#john {
+  color: rgb(0, 0, 256);
+  font-size: 36px;
+}
+
+#doe {
+  background-color: rgb(20, 256, 20, 0.5);
+  font-size: 24px;
+  font-weight: bold;
+}
